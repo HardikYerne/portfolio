@@ -1,0 +1,11 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "emmet.includeLanguages": { "html": "html" },
+  "css.validate": true,
+  "html.autoClosingTags": true
+}

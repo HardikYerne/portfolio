@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.live-share",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens"
+  ]
+}
